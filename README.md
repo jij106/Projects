@@ -18,7 +18,11 @@ Due Wednesday, June 12th @ 11:59 pm (Finals Week)
 * [Final Project](https://github.com/COGS108/Projects/blob/master/FinalProject.ipynb)
 
 ## Changes made
-2019/5/24
+2019/5/24 Leyi Shang
 1. Originally education level is dropped, now recovered.
 2. Race columns deleted. The dataset now has 40 columns.
 3. Added education section to visualization. Everything beneth the TODO mark can be ignored and will be organized later.
+
+2019/5/27 Leyi Shang
+1. Dropped unused columns, recovered state names for the geographical graph.
+2. Finished visualization part.
