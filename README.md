@@ -26,3 +26,7 @@ Due Wednesday, June 12th @ 11:59 pm (Finals Week)
 2019/5/27 Leyi Shang
 1. Dropped unused columns, recovered state names for the geographical graph.
 2. Finished visualization part.
+
+2019/5/29 Leyi Shang
+1. Added linear regression prediction.
+TODO: change all counts to percentages, use linear regression to predict more
